@@ -4,4 +4,4 @@
 
  ### Lesson 1: Companies
 Extract the data from [wikipedia](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue) and create a CSV file that shows the largest companies in the US <br>
-<strong> Bonus: </strong> Extract the data from [wikipedia](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue) and create a CSV file of that shows the largest comapnies in the Philippines.
+<strong> Bonus: </strong> Extract the data from [wikipedia](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_Philippines) and create a CSV file of that shows the largest comapnies in the Philippines.
